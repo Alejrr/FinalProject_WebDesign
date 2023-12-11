@@ -1,7 +1,7 @@
 # Frontend Mentor - Newsletter sign-up form with success message
 
-![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
-
+[![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
+](https://github.com/Alejrr/FinalProject_WebDesign/issues/1#issue-2036327019)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
